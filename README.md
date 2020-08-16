@@ -183,6 +183,7 @@ Kaggle 문제 풀이 설명
 - 이상탐지 동영상 : [drillai_anomaly_detect.mp4](material/deep_learning/drillai_anomaly_detect.mp4)
 - 훌륭한 논문 리스트 : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 - online CNN 시각화 자료 : https://poloclub.github.io/cnn-explainer/
+- GradCAM : [grad_cam.ipynb](material/deep_learning/grad_cam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/grad_cam.ipynb)
 
 <br>
 
