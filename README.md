@@ -94,6 +94,10 @@ CNN
 
 ## 5일차
 
+VGG16 사용한 커스텀 데이터 학습 실습
+
+<br>
+
 다양한 딥러닝 - RNN, GAN
 
 - text 분류 - CNN, RNN 사용한 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/text_classification.ipynb)
