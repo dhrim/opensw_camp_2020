@@ -79,8 +79,6 @@ CNN
 다양한 딥러닝
 - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
 - Super Resolution : [mnist_super_resolution.ipynb](material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/mnist_super_resolution.ipynb)
-- 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/unet_segementation.ipynb)
-- AutoEncoder를 사용한 비정상 탐지 : [anomaly_detection_using_autoencoder.ipynb](material/deep_learning/anomaly_detection_using_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/anomaly_detection_using_autoencoder.ipynb)
 
 
 실제 사용하는 딥러닝 모델
@@ -88,26 +86,35 @@ CNN
 - VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 
 
+
 <br>
 
 ## 5일차
 
-다양한 딥러닝 - RNN, GAN
+다양한 딥러닝
+
+- functional api : [functional_api.ipynb](material/deep_learning/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/functional_api.ipynb)
+
+- 영역 분할(segmentation) - U-Net : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/unet_segementation.ipynb)
+- AutoEncoder를 사용한 비정상 탐지 : [anomaly_detection_using_autoencoder.ipynb](material/deep_learning/anomaly_detection_using_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/anomaly_detection_using_autoencoder.ipynb)
+
 
 - text 분류 - CNN, RNN 사용한 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/text_classification.ipynb)
 - RNN 이해기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
 - RNN을 사용한 MNIST 분류 : [mnist_rnn.ipynb](material/mnist_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/mnist_rnn.ipynb)
 - 얼굴 인식(face recognition) : [Face_Recognition.ipynb](material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/Face_Recognition.ipynb)
-- functional api : [functional_api.ipynb](material/deep_learning/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/functional_api.ipynb)
 
-
-- GAN, 강화학습 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [wgan_pg_mnist.ipynb.ipynb](material/deep_learning/wgan_pg_mnist.ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/wgan_pg_mnist.ipynb.ipynb)
-- Cycle GAN 리뷰 : [cycle_gan.pdf](material/deep_learning/cycle_gan.pdf)
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
 
 <br>
 
 ## 6일차
+
+GAN
+
+- GAN, 강화학습 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [wgan_pg_mnist.ipynb.ipynb](material/deep_learning/wgan_pg_mnist.ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/wgan_pg_mnist.ipynb.ipynb)
+- Cycle GAN 리뷰 : [cycle_gan.pdf](material/deep_learning/cycle_gan.pdf)
+
 
 Object Detection
 
