@@ -76,12 +76,7 @@ CNN
 
 ## 4일차
 
-<<<<<<< HEAD
-딥러닝 응용
-=======
 다양한 활용
-
->>>>>>> 539f0503e77195e1a2a9675f9a110b07aa2532c1
 - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
 - Super Resolution : [mnist_super_resolution.ipynb](material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/mnist_super_resolution.ipynb)
 
@@ -111,8 +106,8 @@ CNN
 
 <br>
 
+## 6일차
 
-<br>
 
 다양한 활용
 
@@ -128,7 +123,7 @@ RNN, 강화학습
 
 <br>
 
-## 6일차
+## 7일차
 
 GAN
 
@@ -146,7 +141,7 @@ Object Detection
 <br>
 
 
-## 7일차
+## 8일차
 
 
 Kaggle 문제 풀이 설명
@@ -165,30 +160,20 @@ Kaggle 문제 풀이 설명
 <br>
 
 
-## 8일차
+## 9일차
 
-현실 데이터 현실 문제 #1
+현실 데이터 현실 문
 
 - R-CNN
 - disaster Detection
-
-<br>
-
-
-## 9일차
-
-현실 데이터 현실 문제 #2
-
 - 결석 분류
 
-
 <br>
-
 
 
 ## 10일차
 
-다음
+딥러닝 교육 
 
 - SW 산업에 대하여
 - SW 개발 이란
