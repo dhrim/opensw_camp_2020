@@ -100,8 +100,9 @@ Functional API
 다양한 활용
 - 영역 분할(segmentation) - U-Net : [lung_segementation.ipynb](material/deep_learning/lung_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/lung_segementation.ipynb)
 - AutoEncoder를 사용한 비정상 탐지 : [anomaly_detection_using_autoencoder.ipynb](material/deep_learning/anomaly_detection_using_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/anomaly_detection_using_autoencoder.ipynb)
-- 영상 분할(Segementation) : [lung_segementation.ipynb](material/deep_learning/lung_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/lung_segementation.ipynb)
-
+- 영상 분할(Segementation)
+  - U-Net을 사용한 : [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/unet_segementation.ipynb)
+  - M-Net을 사용한 : [mnet_segementation.ipynb](material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/mnet_segementation.ipynb)
 <br>
 
 ## 6일차
