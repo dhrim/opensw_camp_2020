@@ -138,8 +138,8 @@ RNN, 강화학습
 
 GAN
 
-- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), [wgan_pg_mnist.ipynb.ipynb](material/deep_learning/wgan_pg_mnist.ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/wgan_pg_mnist.ipynb.ipynb)
-- GAN MNIST 학습 : [TODO:ADD]
+- GAN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx), 
+- GAN MNIST 학습 : [wgan_pg_mnist.ipynb.ipynb](material/deep_learning/wgan_pg_mnist.ipynb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/wgan_pg_mnist.ipynb.ipynb)
 - Cycle GAN 리뷰 : [cycle_gan.pdf](material/deep_learning/cycle_gan.pdf)
 
 
