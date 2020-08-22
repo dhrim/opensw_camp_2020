@@ -232,7 +232,7 @@ Environment
 	colab
 	usage
 		!, %, run
-    GCP notebook
+    GCP virtual machine
 linux
 	ENV
 	command
@@ -314,6 +314,12 @@ Deep Learning
         Classification
         Object Detection
         Generation
+	Segmentation
+	Pose Extraction
+	Noise Removing
+	Super Resolution
+	Question answering
+	Auto Captioning
         target : text/image
 
 TensorFlow/Keras
