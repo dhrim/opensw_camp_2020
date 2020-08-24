@@ -63,10 +63,14 @@ keras-yolo3 사용
 https://github.com/qqwweee/keras-yolo3
 
 
+<br>
+
 ## 레이블링 방법
 
 레이블링 가이드 : [yolo_labeling_guide.pdf](yolo_labeling_guide.pdf)
 
+
+<br>
 
 ## 데이터 준비
 
@@ -89,6 +93,8 @@ bus
 train
 ...
 ```
+
+<br>
 
 ### 레이블링 파일
 1줄에 1개 파일에 대한 레이블링
