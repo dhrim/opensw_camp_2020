@@ -65,6 +65,8 @@ keras-yolo3 사용
 
 https://github.com/qqwweee/keras-yolo3
 
+실습 자료 : [training_yolo_with_custom_data.ipynb](training_yolo_with_custom_data.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/training_yolo_with_custom_data.ipynb)
+
 
 <br>
 
