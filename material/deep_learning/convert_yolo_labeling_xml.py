@@ -22,7 +22,7 @@ for file_name in label_file_names:
     tree = ET.parse(in_file)
     root = tree.getroot()
 
-    a_record = [ file_name ]
+    a_record = [ file_name.replace("xml", "jpg" ]
 
     for obj in root.iter('object'):
         difficult = obj.find('difficult').text
