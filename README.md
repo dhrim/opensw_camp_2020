@@ -158,6 +158,7 @@ Object Detection
 
 다양한 활용
 - 얼굴 감정 분류 : 
+- 얼굴 탐지 : [track_faces_on_video_realtime.ipynb](material/deep_learning/track_faces_on_video_realtime.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/track_faces_on_video_realtime.ipynb)
 
 <br>
 
