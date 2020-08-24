@@ -2,7 +2,9 @@ import os
 import glob
 
 CLASS_NAMES = [ "cat", "dog" ] 
-TAGET_FOLDER_NAME = "labels"
+# TAGET_FOLDER_NAME = "labels"
+TAGET_FOLDER_NAME = "dogs-cats"
+
 
 label_file_names = []
 for file_name in glob.glob(TAGET_FOLDER_NAME+'/*.xml'):
@@ -22,7 +24,8 @@ for file_name in label_file_names:
     tree = ET.parse(in_file)
     root = tree.getroot()
 
-    a_record = [ file_name.replace("xml", "jpg") ]
+    # a_record = [ file_name ]
+    a_record = [ file_name.replace("xml", "jpg") ]  # FIXED =================================
 
     for obj in root.iter('object'):
         difficult = obj.find('difficult').text
@@ -33,7 +36,8 @@ for file_name in label_file_names:
         xmlbox = obj.find('bndbox')
         xmin = int(xmlbox.find('xmin').text)
         ymin = int(xmlbox.find('ymin').text)
-        xmax = int(xmlbox.find('xmax').text)
+        # xmax = int(xmlbox.find('xmin').text)    
+        xmax = int(xmlbox.find('xmax').text)  # FIXED =================================
         ymax = int(xmlbox.find('ymax').text)
 
         a_record.append(xmin)
