@@ -153,8 +153,6 @@ GAN
 Object Detection
 
 - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
-- RetinaNet : [object_detection_retinanet.ipynb](material/deep_learning/object_detection_retinanet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
-- annotation tool : https://github.com/virajmavani/semi-auto-image-annotation-tool
 
 다양한 활용
 - 얼굴 감정 분류 : 
