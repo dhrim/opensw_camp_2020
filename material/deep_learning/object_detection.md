@@ -23,7 +23,7 @@
 <br>
 
 
-## DarkNet
+## DarkNet 사용
 
 TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로 한다.
 
@@ -41,7 +41,7 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 <br>
 
 
-## Pythyon Keras 변환
+## Keras 사용
 
 python에서 Keras로 사용하려면 학습된 파일과 모델 설정을 가지고 변환해서 사용한다.
 
@@ -54,6 +54,9 @@ https://github.com/qqwweee/keras-yolo3
 <br>
 
 - 실습 자료 : [object_detection_yolo_keras.ipynb](object_detection_yolo_keras.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/object_detection_yolo_keras.ipynb)
+
+
+<br>
 
 
 # YOLO 커스텀 데이터 학습
@@ -120,3 +123,10 @@ path/to/img2.jpg 120,300,250,600,2
 
 <br>
 
+
+# RetinaNet
+
+실습 자료 : [object_detection_retinanet.ipynb](object_detection_retinanet.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
+
+
+<br>
