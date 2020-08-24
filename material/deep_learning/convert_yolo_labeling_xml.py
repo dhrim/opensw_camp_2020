@@ -33,7 +33,7 @@ for file_name in label_file_names:
         xmlbox = obj.find('bndbox')
         xmin = int(xmlbox.find('xmin').text)
         ymin = int(xmlbox.find('ymin').text)
-        xmax = int(xmlbox.find('xmin').text)
+        xmax = int(xmlbox.find('xmax').text)
         ymax = int(xmlbox.find('ymax').text)
 
         a_record.append(xmin)
