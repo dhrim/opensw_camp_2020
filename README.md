@@ -145,18 +145,25 @@ GAN
 
 <br>
 
+
+
+## 8일차
+
+
 Object Detection
 
 - YOLO : [object_detection.md](material/deep_learning/object_detection.md)
 - RetinaNet : [object_detection_retinanet.ipynb](material/deep_learning/object_detection_retinanet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
 - annotation tool : https://github.com/virajmavani/semi-auto-image-annotation-tool
 
+다양한 활용
+- 얼굴 감정 분류 : 
 
 <br>
 
 
-## 8일차
 
+## 9일차
 
 Kaggle 문제 풀이 설명
 
@@ -169,18 +176,6 @@ Kaggle 문제 풀이 설명
 - Car Image segmentation
 	- keras U-Net : https://www.kaggle.com/ecobill/u-nets-with-keras
 	- VGG16 U-Net : https://www.kaggle.com/kmader/vgg16-u-net-on-carvana
-
-
-<br>
-
-
-## 9일차
-
-현실 데이터 현실 문
-
-- R-CNN
-- disaster Detection
-- 결석 분류
 
 <br>
 
