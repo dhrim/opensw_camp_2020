@@ -63,6 +63,11 @@ keras-yolo3 사용
 https://github.com/qqwweee/keras-yolo3
 
 
+## 레이블링 방법
+
+레이블링 가이드 : [yolo_labeling_guide.pdf](yolo_labeling_guide.pdf)
+
+
 ## 데이터 준비
 
 2개의 파일
@@ -109,11 +114,3 @@ path/to/img2.jpg 120,300,250,600,2
 
 <br>
 
-
-## 학습 실행
-
-```
-python train.py
-```
-
-- 실습 자료 : [yolo3_object_dection_and_train_custom_data.ipynb](yolo3_object_dection_and_train_custom_data.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_2020/blob/master/material/deep_learning/yolo3_object_dection_and_train_custom_data.ipynb)
