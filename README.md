@@ -126,8 +126,8 @@ Functional API
 RNN, 강화학습
 - RNN 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
 - CNN, RNN 사용한 text 분류 : [text_classification.ipynb](material/deep_learning/text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/text_classification.ipynb)
-- RNN을 사용한 MNIST 분류 : [mnist_rnn.ipynb](material/mnist_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/mnist_rnn.ipynb)
-- IMDB 사례를 통한 오버피팅 처리하기 : [treating_overfitting_with_imdb.ipynb](material/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
+- RNN을 사용한 MNIST 분류 : [mnist_rnn.ipynb](material/deep_learning/mnist_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/mnist_rnn.ipynb)
+- IMDB 사례를 통한 오버피팅 처리하기 : [treating_overfitting_with_imdb.ipynb](material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
 - 강화학습 이해하기 : [deep_learning_intro.pptx](material/deep_learning//deep_learning_intro.pptx)
 
 
