@@ -31,15 +31,19 @@
 
 - Keras로 구현한 딥러닝 코드[dnn_in_keras_shortly.ipynb](material/deep_learning/dnn_in_keras_shortly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/dnn_in_keras_shortly.ipynb)
 
+
 <br>
+
 - IRIS 분류: [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/dnn_iris_classification.ipynb)
 - MNIST 분류 : [dnn_mnist.ipynb](material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/dnn_mnist.ipynb)
 
 <br>
+
 - CNN MNIST 영상분류 : [cnn_mnist.ipynb](material/deep_learning/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/cnn_mnist.ipynb)
 - CNN CIFAR10 컬러 영상분류 : [cnn_cifar10.ipynb](material/deep_learning/cnn_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/cnn_cifar10.ipynb)
 
 <br>
+
 - AutoEncoder : TODO
 - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
 - Super Resolution : [mnist_super_resolution.ipynb](material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/mnist_super_resolution.ipynb)
@@ -55,6 +59,7 @@
 - 알파고 이해하기 : [understanding_ahphago.pptx](material/deep_learning/understanding_ahphago.pptx)
 
 <br>
+
 - 흥미로운 딥러닝 결과 : [some_interesting_deep_learning.pptx](material/deep_learning/some_interesting_deep_learning.pptx)
 - online CNN 시각화 자료 : https://poloclub.github.io/cnn-explainer/
 - online 딥러닝 플랫폼 : https://app.deepcognition.ai/
