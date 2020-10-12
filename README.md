@@ -44,7 +44,7 @@
 
 <br>
 
-- AutoEncoder : TODO
+- AutoEncoder :  [autoencoder.ipynb](material/deep_learning/autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/autoencoder.ipynb)
 - 디노이징 AutoEncoder : [denoising_autoencoder.ipynb](material/deep_learning/denoising_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/denoising_autoencoder.ipynb)
 - Super Resolution : [mnist_super_resolution.ipynb](material/deep_learning/mnist_super_resolution.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/mnist_super_resolution.ipynb)
 
