@@ -34,7 +34,7 @@ TensorFlow나 pythoh 기반이 아닌 c/c++로 구현된 Darknet을 기반으로
 다만 미리 학습된 모델의 weight 파일을 제공한다.
 
 
-- 실습 자료 : [object_detection_yolo_darknet.ipynb](object_detection_yolo_darknet.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/object_detection_yolo_darknet.ipynb)
+- 실습 자료 : [object_detection_yolo_darknet.ipynb](object_detection_yolo_darknet.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/object_detection_yolo_darknet.ipynb)
 
 - 적용 예 : https://drive.google.com/file/d/1ZGiJtRBG8wyI3nn8oI9iKqJC4zOitghT/view?usp=sharing
 
@@ -53,7 +53,7 @@ https://github.com/qqwweee/keras-yolo3
 
 <br>
 
-- 실습 자료 : [object_detection_yolo_keras.ipynb](object_detection_yolo_keras.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/object_detection_yolo_keras.ipynb)
+- 실습 자료 : [object_detection_yolo_keras.ipynb](object_detection_yolo_keras.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/object_detection_yolo_keras.ipynb)
 
 
 <br>
@@ -65,7 +65,7 @@ keras-yolo3 사용
 
 https://github.com/qqwweee/keras-yolo3
 
-실습 자료 : [training_yolo_with_custom_data.ipynb](training_yolo_with_custom_data.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/training_yolo_with_custom_data.ipynb)
+실습 자료 : [training_yolo_with_custom_data.ipynb](training_yolo_with_custom_data.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/training_yolo_with_custom_data.ipynb)
 
 
 <br>
@@ -129,7 +129,7 @@ path/to/img2.jpg 120,300,250,600,2
 
 # RetinaNet
 
-실습 자료 : [object_detection_retinanet.ipynb](object_detection_retinanet.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
+실습 자료 : [object_detection_retinanet.ipynb](object_detection_retinanet.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/object_detection_retinanet.ipynb)
 
 
 <br>
