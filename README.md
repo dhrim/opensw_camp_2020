@@ -166,7 +166,12 @@ Deep Learning
 	Super Resolution
 	Question answering
 	Auto Captioning
-        target : text/image
+        Anomaly Detection
+    data type
+        image
+	sound
+	attribute
+	time series
 
 TensorFlow/Keras
     basic frame
