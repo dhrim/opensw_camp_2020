@@ -52,6 +52,8 @@
 <br>
 
 - U-Net을 사용한 영상 분할: [unet_segementation.ipynb](material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/unet_segementation.ipynb)
+- M-Net을 사용한 영상 분할: [mnet_segementation.ipynb](material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/opensw_camp_2020/blob/master/material/deep_learning/mnet_segementation.ipynb)
+
 
 <br>
 
