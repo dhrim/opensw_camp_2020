@@ -25,7 +25,7 @@
 
 # 프로그램
 
-- 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
+- 딥러닝 개념 : [deep_learning_intro.pptx](https://github.com/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/deep_learning_intro.pptx)
 
 <br>
 
